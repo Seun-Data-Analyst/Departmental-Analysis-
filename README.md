@@ -1,5 +1,5 @@
 # Employee Data-Analysis-
-This analysis was conducted using power bi focusing on the departmental analysis  of a employee dataset and to check the productivity and performance of various department and how it affects the general growth of the organization
+This analysis was conducted using power bi focusing on the departmental analysis  of a employee dataset and to check the performance and productivity of various department and how it affects the general growth of the organization.
 
 # Employee Data Report
 
